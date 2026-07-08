@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm Ntando Samuel Khoza
 
-<!--
-**Ntandosamuel7/Ntandosamuel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ICT Business Analyst | Software Developer | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I am a recent ICT (Business Analysis) graduate from Durban University of Technology with a passion for software development, business analysis, cybersecurity, and building technology solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- Diploma in ICT (Business Analysis) – Durban University of Technology
+- Cisco Cybersecurity Essentials
+- NSC/Matric
+
+### 💻 Skills
+- Business Analysis
+- SQL
+- C#
+- Python (Learning)
+- Software Testing
+- Systems Analysis & Design
+- Microsoft Visio
+- Business Intelligence
+- Cybersecurity
+
+### 🚀 Current Projects
+- 🌐 Personal Portfolio Website
+- 🤖 AI Job Application Assistant (In Development)
+
+### 🌱 Currently Learning
+- FastAPI
+- Playwright
+- Artificial Intelligence
+- Cloud Computing
+
+### 📫 Contact
+- Email: ntandosamuel7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ntando-samuel-khoza-a19005209
